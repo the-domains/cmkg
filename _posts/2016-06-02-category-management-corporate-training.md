@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Drive business results by empowering your team or entire organization to make strategic decisions that are aligned with Shoppers. Corporate training options are customized to help you collaborate internally and externally to meet business goals for short- and long-term success. '
-datePublished: '2016-06-02T15:16:41.394Z'
-dateModified: '2016-06-02T15:16:34.516Z'
+datePublished: '2016-06-02T15:17:38.518Z'
+dateModified: '2016-06-02T15:16:49.360Z'
 title: Category Management Corporate Training
 author: []
 sourcePath: _posts/2016-06-02-category-management-corporate-training.md
