@@ -1,4 +1,4 @@
-name: CMKG
+name: CMKG. Train Ahead.
 favicon: null
 layout_spectrum: 0.23502
 typography_spectrum: 0.65948
@@ -22,7 +22,7 @@ color:
     - '#034ea2'
     - '#f68b1f'
     - '#1d1d1d'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 1
   saturation: 0
   rhythmicContrast: 1
