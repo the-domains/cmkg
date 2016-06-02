@@ -2,6 +2,7 @@ name: CMKG
 favicon: null
 layout_spectrum: 0.23502
 typography_spectrum: 0.65948
+title: Category Management Knowledge Group
 cta:
   domain: null
   bucket: null
